@@ -1,6 +1,7 @@
 # litevex's stuff
 Hi, I'm litevex and I've made several Unity C# projects. I also have some pretty good knowledge of JS and CSS. Most of the things I've made are listed on here, just in case I'll ever need a full list of everything I made.
 
+If you need me, my email is litevvx@protonmail.com and my Discord is litevex#6982
 ## Project RNG3D
 Procedurally generated platformer made in C# and Unity, started development initially several months ago and has evolved over time as I was slowly working on it a couple of times with several stages of art styles, ending up with the retro prototype you see now. Each level, different platforms are procedurally generated, all of which have a different effect. It's much more fun than it might look, and I've probably spent several hours just playing it casually. Development is currently on hold, but I'm planning to port it over to s&box as a multiplayer game once s&box releases.
 
