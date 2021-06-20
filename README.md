@@ -22,7 +22,9 @@ Fyubits is a puzzle game made in the span of a few days for a game jam. It's an 
 
 **Video**
 
-[https://user-images.githubusercontent.com/64324176/122689150-ebb18c00-d220-11eb-8468-780c0ec896f6.mp4](https://user-images.githubusercontent.com/64324176/122689150-ebb18c00-d220-11eb-8468-780c0ec896f6.mp4)
+<video width="633px" controls>
+        <source src="https://user-images.githubusercontent.com/64324176/122689150-ebb18c00-d220-11eb-8468-780c0ec896f6.mp4" type="video/mp4">
+    </video>
 
 ## Unibox
 Unibox is a Garry's Mod like sandbox game made in Unity. It features a resizer, welder, gun, spawner, a working physics gun and a spawn menu with dynamically generated thumbnails. It got about 200 downloads after publishing it on my itch.io page. I never really finished it, but it's still cool I guess.
@@ -31,7 +33,10 @@ Unibox is a Garry's Mod like sandbox game made in Unity. It features a resizer, 
 
 **Video**
 
-[https://user-images.githubusercontent.com/64324176/122689468-f4a35d00-d222-11eb-94bb-b459c128bcf2.mp4](https://user-images.githubusercontent.com/64324176/122689468-f4a35d00-d222-11eb-94bb-b459c128bcf2.mp4)
+<video width="633px" controls>
+        <source src="https://user-images.githubusercontent.com/64324176/122689468-f4a35d00-d222-11eb-94bb-b459c128bcf2.mp4" type="video/mp4">
+    </video>
+
 
 ## Windows 94
 I was the team leader and branding designer on a fan-made javascript modification of the popular website [windows93.net](http://windows93.net/). The project was called Windows 94 and had about 8 people working on it. I was also assigned to creating the CSS part of this project.
