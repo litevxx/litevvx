@@ -9,6 +9,9 @@ Procedurally generated platformer made in C# and Unity, started development init
 
 **Videos**
 
+<video width="633px" controls>
+        <source src="https://user-images.githubusercontent.com/64324176/122688990-ebfd5780-d21f-11eb-9854-6aeb5523aad2.mp4" type="video/mp4">
+    </video>
 [https://user-images.githubusercontent.com/64324176/122688990-ebfd5780-d21f-11eb-9854-6aeb5523aad2.mp4](https://user-images.githubusercontent.com/64324176/122688990-ebfd5780-d21f-11eb-9854-6aeb5523aad2.mp4)
 
 [https://user-images.githubusercontent.com/64324176/122689030-3d0d4b80-d220-11eb-82fa-be6b19528acb.mp4](https://user-images.githubusercontent.com/64324176/122689030-3d0d4b80-d220-11eb-82fa-be6b19528acb.mp4)
