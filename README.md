@@ -1,7 +1,6 @@
 # litevex's stuff
 Hi, I'm litevex and I've made several Unity C# projects. I also have some pretty good knowledge of JS and CSS. Most of the things I've made are listed on here, just in case I'll ever need a full list of everything I made.
 
-For some reason, Github Pages isn't embedding any videos, so you'll have to click on the links yourself.
 ## Project RNG3D
 Procedurally generated platformer made in C# and Unity, started development initially several months ago and has evolved over time as I was slowly working on it a couple of times with several stages of art styles, ending up with the retro prototype you see now. Each level, different platforms are procedurally generated, all of which have a different effect. It's much more fun than it might look, and I've probably spent several hours just playing it casually. Development is currently on hold, but I'm planning to port it over to s&box as a multiplayer game once s&box releases.
 
@@ -11,10 +10,10 @@ Procedurally generated platformer made in C# and Unity, started development init
 
 <video width="633px" controls>
         <source src="https://user-images.githubusercontent.com/64324176/122688990-ebfd5780-d21f-11eb-9854-6aeb5523aad2.mp4" type="video/mp4">
+    </video><br>
+<video width="633px" controls>
+        <source src="https://user-images.githubusercontent.com/64324176/122689030-3d0d4b80-d220-11eb-82fa-be6b19528acb.mp4" type="video/mp4">
     </video>
-[https://user-images.githubusercontent.com/64324176/122688990-ebfd5780-d21f-11eb-9854-6aeb5523aad2.mp4](https://user-images.githubusercontent.com/64324176/122688990-ebfd5780-d21f-11eb-9854-6aeb5523aad2.mp4)
-
-[https://user-images.githubusercontent.com/64324176/122689030-3d0d4b80-d220-11eb-82fa-be6b19528acb.mp4](https://user-images.githubusercontent.com/64324176/122689030-3d0d4b80-d220-11eb-82fa-be6b19528acb.mp4)
 
 ## Fyubits
 Fyubits is a puzzle game made in the span of a few days for a game jam. It's an atmospheric puzzle game involving freezing your point of view and dragging around cubes in your current 2D perspective. For this game, I chose "Prototype" as the art style. Because of the time limitation, I didn't really add that many puzzles, but I still think it's worth playing.
