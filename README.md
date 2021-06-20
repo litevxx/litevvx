@@ -29,7 +29,7 @@ Unibox is a Garry's Mod like sandbox game made in Unity. It features a resizer, 
 
 **Video**
 
-https://user-images.githubusercontent.com/64324176/122689468-f4a35d00-d222-11eb-94bb-b459c128bcf2.mp4
+[https://user-images.githubusercontent.com/64324176/122689468-f4a35d00-d222-11eb-94bb-b459c128bcf2.mp4](https://user-images.githubusercontent.com/64324176/122689468-f4a35d00-d222-11eb-94bb-b459c128bcf2.mp4)
 
 ## Windows 94
 I was the team leader and branding designer on a fan-made javascript modification of the popular website [windows93.net](http://windows93.net/). The project was called Windows 94 and had about 8 people working on it. I was also assigned to creating the CSS part of this project.
