@@ -4,7 +4,13 @@ Hi, I'm litevex and I've made several finished Unity C# projects and I've also m
 ## Project RNG3D
 Procedurally generated platformer made in C# and Unity, started development initially several months ago and has evolved over time as I was slowly working on it a couple of times with several stages of art styles, ending up with the retro prototype you see now. Each level, different platforms are procedurally generated, all of which have a different effect. It's much more fun than it might look, and I've probably spent several hours just playing it casually. Development is currently on hold, but I'm planning to port it over to s&box as a multiplayer game once s&box releases.
 
+**Videos**
+
 https://user-images.githubusercontent.com/64324176/122688990-ebfd5780-d21f-11eb-9854-6aeb5523aad2.mp4
+
+video test 
+
+https://www.youtube.com/watch?v=uFjYgsJ0oLE
 
 https://user-images.githubusercontent.com/64324176/122689030-3d0d4b80-d220-11eb-82fa-be6b19528acb.mp4
 
@@ -16,4 +22,5 @@ Fyubits is a puzzle game made in the span of a few days for a game jam. It's an 
 https://user-images.githubusercontent.com/64324176/122689150-ebb18c00-d220-11eb-8468-780c0ec896f6.mp4
 
 ## Unibox
-Unibox is a Garry's Mod like sandbox game made in Unity. It features several tools, a working physics gun and a spawn menu with dynamically generated thumbnails. I made it mostly for myself, but it did get more than 200 downloads after publishing it on my itch.io page. 
+Unibox is a Garry's Mod like sandbox game made in Unity. It features several tools, a working physics gun and a spawn menu with dynamically generated thumbnails. I made it mostly for myself, but it did get more than 200 downloads after publishing it on my itch.io page. It's pretty fun to mess around in, for like a minute.
+
